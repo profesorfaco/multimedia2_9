@@ -4,7 +4,7 @@ Diseño Gráfico · Universidad de Chile
 
 ### Evaluación: 3 de agosto, 2018
 
-Hoy cambiamos de tema. Pasamos del "Front End" a la "Experiencia de Usuario". 
+Hoy cambiamos de tema. Pasamos del *Front End* a la *User Experience*. 
 
 #### Toolkits para el diseño (a secas o con apellidos de moda)
 
