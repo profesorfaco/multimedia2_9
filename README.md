@@ -4,7 +4,9 @@ Diseño Gráfico · Universidad de Chile
 
 ### Clase introductoria: 3 de agosto, 2018
 
-Hoy cambiamos de tema. Pasamos del *Front End* a la *User Experience*. 
+Hoy cambiamos de tema. Pasamos del *Front End* a la *User Experience*. Vamos a partir en lo más "abstracto".
+
+![Logo](https://i.pinimg.com/originals/b0/58/e4/b058e49cb6eaa1bc413d9269e72d319b.png)
 
 #### Toolkits para el diseño (a secas o con apellidos de moda)
 
