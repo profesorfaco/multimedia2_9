@@ -1,6 +1,6 @@
 # multimedia2_9
 
-### Toolkits para diseño (a secas o con apellidos de moda)
+### Toolkits para el diseño (a secas o con apellidos de moda)
 
 http://design-toolkit.recursos.uoc.edu/es/
 
@@ -10,9 +10,9 @@ http://www.designkit.org/methods
 
 http://www.servicedesigntoolkit.org/
 
-http://dsuc.cl/
+http://dsuc.cl/recursos/
 
-### Usabilidad -> UX
+### Usabilidad → UX
 
 https://www.nngroup.com/articles/
 
@@ -20,10 +20,22 @@ https://www.usability.gov/
 
 http://www.guiadigital.gob.cl/
 
-##### Para hacer prototipos interactivos
+##### Referencias para hacer "paper prototyping"
+
+https://youtu.be/yafaGNFu8Eg
+
+https://youtu.be/GrV2SZuRPv0
+
+https://youtu.be/9wQkLthhHKA
+
+https://www.nngroup.com/articles/task-scenarios-usability-testing/
+
+##### Herramientas para hacer prototipos interactivos
 
 https://www.invisionapp.com/
 
 https://marvelapp.com/
 
 https://proto.io/
+
+https://www.nngroup.com/articles/common-ux-deliverables/
