@@ -2,7 +2,7 @@ Diseño Gráfico · Universidad de Chile
 
 # Multimedia II
 
-### Evaluación: 3 de agosto, 2018
+### Clase introductoria: 3 de agosto, 2018
 
 Hoy cambiamos de tema. Pasamos del *Front End* a la *User Experience*. 
 
