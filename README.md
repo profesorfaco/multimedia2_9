@@ -1,6 +1,12 @@
-# multimedia2_9
+Diseño Gráfico · Universidad de Chile
 
-### Toolkits para el diseño (a secas o con apellidos de moda)
+# Multimedia II
+
+### Evaluación: 3 de agosto, 2018
+
+Hoy cambiamos de tema. Pasamos del "Front End" a la "Experiencia de Usuario". 
+
+#### Toolkits para el diseño (a secas o con apellidos de moda)
 
 http://design-toolkit.recursos.uoc.edu/es/
 
@@ -12,7 +18,7 @@ http://www.servicedesigntoolkit.org/
 
 http://dsuc.cl/recursos/
 
-### Usabilidad → UX
+#### Usabilidad → UX
 
 https://www.nngroup.com/articles/
 
